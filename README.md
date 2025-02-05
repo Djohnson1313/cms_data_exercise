@@ -7,6 +7,10 @@
 - link to notebook : [cms_data_exersice.ipynb](https://github.com/Djohnson1313/cms_data_exercise/blob/main/cms_data_exercise.ipynb)
 - presentation video : 
 
+Uploading 2025-02-05 12-01-44.mp4…
+
+
+
 # Overview 
 
 The data we will be using is data from Payroll Based Journal Daily Nurse Staffing and Health Deficiencies from Data.CMS.GOV. 
