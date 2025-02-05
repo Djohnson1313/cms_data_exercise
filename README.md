@@ -1,4 +1,4 @@
-# cms_data_exercise
+# CMS Data Exercise
 
 - Darryn Johnson
 - Date Last Modified : 2/5/2025
@@ -24,8 +24,9 @@ Contractor quality is an extremely important metric to follow, as the better the
 Utilizing the Clipboard Health app to target pain points for facilities will help bolster the partnerships with facilities, and ensure a happy customer and patience.
 
 # Repository Structure
-
+```
 ├── .gitignore
 ├── cmd_data_exercise.ipynb
 ├── cms_presentation.pdf
 └── dataset_metadata.ipynb
+```
