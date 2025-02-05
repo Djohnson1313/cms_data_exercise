@@ -7,7 +7,6 @@ https://github.com/user-attachments/assets/4acf7501-9eee-42d4-b369-d8fcc25fa3d4
 - link to repository : [cms_data_exercise](https://github.com/Djohnson1313/cms_data_exercise)
 - link to presentation : [cms_presentation](https://github.com/Djohnson1313/cms_data_exercise/blob/main/cms_presentation.pdf)
 - link to notebook : [cms_data_exersice.ipynb](https://github.com/Djohnson1313/cms_data_exercise/blob/main/cms_data_exercise.ipynb)
-- presentation video
 
 # Overview 
 
